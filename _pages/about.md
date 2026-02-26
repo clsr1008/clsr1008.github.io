@@ -41,7 +41,11 @@ My research interest includes time series anylysis and data quality assessment. 
 
 - <span class="badge">PHM-AP 2025</span>
   [Shared Representation Learning for Generalizable SOH Estimation Across Multiple Battery Configurations](https://papers.phmsociety.org/index.php/phmap/article/view/4613),
-  **Shunyu Wu**, Zhuomin Chen, Bingxin Lin, Haozheng Ye, Jiahui Zhou, Dan Li, Jian Lou. <span style="color:#d62728; font-weight:600;">(Best Paper Award)</span>  
+  **Shunyu Wu**, Zhuomin Chen, Bingxin Lin, Haozheng Ye, Jiahui Zhou, Dan Li, Jian Lou. <span style="color:#d62728; font-weight:600;">(Best Paper Award)</span>
+
+- <span class="badge">CIKM 2025</span>
+  [Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting](https://dl.acm.org/doi/abs/10.1145/3746252.3760803),
+  Zhuomin Chen, Dan Li, Jiahui Zhou, **Shunyu Wu**, Haozhen Ye*, Jian Lou, See-Kiong Ng.
 
 - <span class="badge">EAI CollaborateCom 2024</span>
   [Bace-rul: a bi-directional adversarial network with covariate encoding for machine remaining useful life prediction](https://link.springer.com/chapter/10.1007/978-3-031-93251-9_25),

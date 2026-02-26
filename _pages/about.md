@@ -40,17 +40,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment](https://arxiv.org/abs/2506.01290), **Shunyu Wu**, Dan Li, Wenjie Feng, Haozheng Ye, Jian Lou, See-Kiong Ng. <span class="badge">ICLR 2026</span>
+- [Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment](https://arxiv.org/abs/2506.01290), **Shunyu Wu**, Dan Li, Wenjie Feng, Haozheng Ye, Jian Lou, See-Kiong Ng. **ICLR 2026**
 - [Lightweight Time Series Data Valuation on Time Series Foundation Models via In-Context Finetuning](https://arxiv.org/abs/2511.11648), **Shunyu Wu**, Tianyue Li, Yixuan Leng, Jingyi Suo*, Jian Lou, Dan Li, See-Kiong Ng, **DASFAA 2026**
-- [Shared Representation Learning for Generalizable SOH Estimation Across Multiple Battery Configurations](https://papers.phmsociety.org/index.php/phmap/article/view/4613), **Shunyu Wu**, Zhuomin Chen, Bingxin Lin, Haozheng Ye, Jiahui Zhou, Dan Li, Jian Lou, **PHM-AP 2025**
+- [Shared Representation Learning for Generalizable SOH Estimation Across Multiple Battery Configurations](https://papers.phmsociety.org/index.php/phmap/article/view/4613), **Shunyu Wu**, Zhuomin Chen, Bingxin Lin, Haozheng Ye, Jiahui Zhou, Dan Li, Jian Lou, **PHM-AP 2025** (Best Paper Award)
+- [Bace-rul: a bi-directional adversarial network with covariate encoding for machine remaining useful life prediction](https://link.springer.com/chapter/10.1007/978-3-031-93251-9_25), Zekai Zhang, Dan Li, **Shunyu Wu**, Junya Cai, Bo Zhang, See Kiong Ng, Zibin Zheng, **EAI Collaborate Com 2024**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - 2028.06 (now)*, Master, Sun Yat-sen University, Zhuhai.
+- 2021.09 - 2025.06, Undergraduate, School of Software Engineering, Sun Yat-sen University, Zhuhai.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

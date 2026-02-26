@@ -45,6 +45,23 @@ My research interest includes neural machine translation and computer vision. I 
 - [Shared Representation Learning for Generalizable SOH Estimation Across Multiple Battery Configurations](https://papers.phmsociety.org/index.php/phmap/article/view/4613), **Shunyu Wu**, Zhuomin Chen, Bingxin Lin, Haozheng Ye, Jiahui Zhou, Dan Li, Jian Lou, **PHM-AP 2025** (Best Paper Award)
 - [Bace-rul: a bi-directional adversarial network with covariate encoding for machine remaining useful life prediction](https://link.springer.com/chapter/10.1007/978-3-031-93251-9_25), Zekai Zhang, Dan Li, **Shunyu Wu**, Junya Cai, Bo Zhang, See Kiong Ng, Zibin Zheng, **EAI Collaborate Com 2024**
 
+- <span class="badge">ICLR 2026</span>
+  [Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment](https://arxiv.org/abs/2506.01290),
+  **Shunyu Wu**, Dan Li, Wenjie Feng, Haozheng Ye, Jian Lou, See-Kiong Ng.
+
+- <span class="badge">DASFAA 2026</span>
+  [Lightweight Time Series Data Valuation on Time Series Foundation Models via In-Context Finetuning](https://arxiv.org/abs/2511.11648),
+  **Shunyu Wu**, Tianyue Li, Yixuan Leng, Jingyi Suo*, Jian Lou, Dan Li, See-Kiong Ng.
+
+- <span class="badge">PHM-AP 2025</span>
+  <span style="color:#d62728; font-weight:600;">Best Paper Award</span>  
+  [Shared Representation Learning for Generalizable SOH Estimation Across Multiple Battery Configurations](https://papers.phmsociety.org/index.php/phmap/article/view/4613),
+  **Shunyu Wu**, Zhuomin Chen, Bingxin Lin, Haozheng Ye, Jiahui Zhou, Dan Li, Jian Lou.
+
+- <span class="badge">EAI CollaborateCom 2024</span>
+  [Bace-rul: a bi-directional adversarial network with covariate encoding for machine remaining useful life prediction](https://link.springer.com/chapter/10.1007/978-3-031-93251-9_25),
+  Zekai Zhang, Dan Li, **Shunyu Wu**, Junya Cai, Bo Zhang, See Kiong Ng, Zibin Zheng.
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

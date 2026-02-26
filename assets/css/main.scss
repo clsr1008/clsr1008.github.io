@@ -97,12 +97,24 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+// .badge {
+//     padding-left: 1rem;
+//     padding-right: 1rem;
+//     margin-top: .5em;
+//     margin-left: -.5em;
+//     color: white;
+//     background-color: #00369f;
+//     font-size: .8em;
+// }
+
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    margin-top: .5em;
-    margin-left: -.5em;
+    padding: 0 0.25rem; /* 左右内边距缩小到0.25rem，可根据需要调整 */
+    margin-top: 0.5em;
+    margin-left: -0.5em;
     color: white;
     background-color: #00369f;
-    font-size: .8em;
+    font-size: 0.8em;
+    display: inline-block; /* 确保宽度只包裹文字 */
+    line-height: 1.2em; /* 可以调整垂直高度 */
+    border-radius: 0.2em; /* 可选，让徽章圆角更自然 */
 }

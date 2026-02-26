@@ -40,7 +40,11 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- <div><div class="badge">ICLR 2026</div> [Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment](https://arxiv.org/abs/2506.01290), **Shunyu Wu**, Dan Li, Wenjie Feng, Haozheng Ye, Jian Lou, See-Kiong Ng, **ICLR 2026**
+- <div class='paper-box-text' markdown="1">
+  <span class="badge">ICLR 2026</span>
+  [Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment](https://arxiv.org/abs/2506.01290),
+  **Shunyu Wu**, Dan Li, Wenjie Feng, Haozheng Ye, Jian Lou, See-Kiong Ng.
+</div>
 - [Lightweight Time Series Data Valuation on Time Series Foundation Models via In-Context Finetuning](https://arxiv.org/abs/2511.11648), **Shunyu Wu**, Tianyue Li, Yixuan Leng, Jingyi Suo*, Jian Lou, Dan Li, See-Kiong Ng, **DASFAA 2026**
 - [Shared Representation Learning for Generalizable SOH Estimation Across Multiple Battery Configurations](https://papers.phmsociety.org/index.php/phmap/article/view/4613), **Shunyu Wu**, Zhuomin Chen, Bingxin Lin, Haozheng Ye, Jiahui Zhou, Dan Li, Jian Lou, **PHM-AP 2025**
 

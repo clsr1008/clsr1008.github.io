@@ -28,7 +28,8 @@ My research interest includes time series anylysis and data quality assessment. 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted to DASFAA 2026. 
-- *2026.01*: &nbsp;🎉🎉 One papers is accepted to ICLR 2026. 
+- *2026.01*: &nbsp;🎉🎉 One papers is accepted to ICLR 2026.
+- *2025.12*: &nbsp;🎉🎉 Our paper won a best paper award at [PHM-AP 2025](https://phmap25.org/index.html).
 
 # 📝 Publications 
 - <span class="badge">ICLR 2026</span>
@@ -37,7 +38,7 @@ My research interest includes time series anylysis and data quality assessment. 
 
 - <span class="badge">DASFAA 2026</span>
   [Lightweight Time Series Data Valuation on Time Series Foundation Models via In-Context Finetuning](https://arxiv.org/abs/2511.11648),
-  **Shunyu Wu**, Tianyue Li, Yixuan Leng, Jingyi Suo*, Jian Lou, Dan Li, See-Kiong Ng.
+  **Shunyu Wu**, Tianyue Li, Yixuan Leng, Jingyi Suo, Jian Lou, Dan Li, See-Kiong Ng.
 
 - <span class="badge">PHM-AP 2025</span>
   [Shared Representation Learning for Generalizable SOH Estimation Across Multiple Battery Configurations](https://papers.phmsociety.org/index.php/phmap/article/view/4613),
@@ -45,14 +46,16 @@ My research interest includes time series anylysis and data quality assessment. 
 
 - <span class="badge">CIKM 2025</span>
   [Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting](https://dl.acm.org/doi/abs/10.1145/3746252.3760803),
-  Zhuomin Chen, Dan Li, Jiahui Zhou, **Shunyu Wu**, Haozhen Ye*, Jian Lou, See-Kiong Ng.
+  Zhuomin Chen, Dan Li, Jiahui Zhou, **Shunyu Wu**, Haozhen Ye, Jian Lou, See-Kiong Ng.
 
 - <span class="badge">EAI CollaborateCom 2024</span>
   [Bace-rul: a bi-directional adversarial network with covariate encoding for machine remaining useful life prediction](https://link.springer.com/chapter/10.1007/978-3-031-93251-9_25),
   Zekai Zhang, Dan Li, **Shunyu Wu**, Junya Cai, Bo Zhang, See Kiong Ng, Zibin Zheng. <span style="color:#d62728; font-weight:600;">(Best Student Paper Award)</span>
 
 # 🎖 Honors and Awards
-- *2025.12* Best paper award, The Asia Pacific Prognostics and Health Management Conference 2025 (PHM-AP 2025).
+- *2025.12* Best Paper Award, The Asia Pacific Prognostics and Health Management Conference 2025 (PHM-AP 2025).
+- *2025.09* First-Class Graduate Scholarship, Sun Yat-sen University.
+- *2024.09* First-Class Undergraduate Scholarship, Sun Yat-sen University.
 
 # 📖 Educations
 - *2025.09 - 2028.06 (now)*, Master, Sun Yat-sen University, Zhuhai.

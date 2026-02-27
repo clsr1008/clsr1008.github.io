@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student in Software Engineering at Sun Yat-sen University, with a strong interest in machine learning, data-centric AI, and time series analysis. My research focuses on improving data quality and model generalization, especially in complex and cross-domain scenarios. I have worked on projects involving multi-task learning with knowledge distillation, as well as meta-learning frameworks for evaluating time series data using large language models.
+I am currently a Master’s student in Computer Science at Sun Yat-sen University, advised by Prof. [Dan Li](https://scholar.google.com/citations?user=YYig2NUAAAAJ&hl=en) and [Jian Lou](https://sites.google.com/view/jianlou). I received my B.Sc. degree in Computer Science from Sun Yat-sen University in 2025.
 
-My recent work explores how LLM-based judgments can be leveraged to assess and select high-quality time series data, aiming to bridge the gap between data quality assessment and downstream task performance. I am particularly interested in algorithm optimization, uncertainty modeling, and robust learning under distribution shifts.
+My research interests lie in time series analysis and data-centric AI. In particular, I study how data quality influences the performance and reliability of machine learning systems, and I am interested in developing practical and principled methods to better evaluate and utilize data in complex temporal scenarios.
 
-Beyond research, I value interdisciplinary thinking and practical impact. I enjoy transforming theoretical insights into deployable systems and scalable solutions. In the long term, I hope to continue advancing trustworthy and generalizable AI systems that can better interact with real-world data.
-
-My research interest includes time series anylysis and data quality assessment. I have published several papers at the top international AI conferences.
+I have published several papers at leading international AI conferences and have led research projects in collaboration with industry partners such as Xiaomi and Huawei. These experiences have helped me better understand the connection between academic research and real-world applications.
 
 
 # 🔥 News

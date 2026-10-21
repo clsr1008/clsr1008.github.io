@@ -25,11 +25,16 @@ I have published several papers at leading international AI conferences and have
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted to NeurIPS 2026 as Spotlight. 
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted to DASFAA 2026. 
 - *2026.01*: &nbsp;🎉🎉 One papers is accepted to ICLR 2026.
 - *2025.12*: &nbsp;🎉🎉 Our paper won a best paper award at [PHM-AP 2025](https://phmap25.org/index.html).
 
 # 📝 Publications 
+- <span class="badge">NeurIPS 2026</span>
+  [TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning](https://arxiv.org/abs/2606.03629),
+  **Shunyu Wu**, Dan Li, Haozheng Ye, Weibin Feng, Jian Lou, Bo Zhang, Wenjie Feng, Chenjuan Guo, See-Kiong Ng. <span style="color:#d62728; font-weight:600;">(Spotlight)</span>
+  
 - <span class="badge">ICLR 2026</span>
   [Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment](https://arxiv.org/abs/2506.01290),
   **Shunyu Wu**, Dan Li, Wenjie Feng, Haozheng Ye, Jian Lou, See-Kiong Ng.
